@@ -1,0 +1,29 @@
+@media(max-width:1024px) {
+    .side1{
+        text-align: start;
+    }
+}
+
+@media(max-width:431px) {
+    .side1{
+        text-align: center;
+    }
+    li {
+        font-size: 16px;
+    }
+    .side2 {
+        margin: 0px 40px;
+        text-align: center;
+    }
+    .side2 h1 {
+        font-size: 12px;
+    }
+    .follow {
+        margin-top: 4px;
+        margin-bottom: 30px;
+    }
+    .side3{
+        text-align: center;
+    }
+}
+
